@@ -181,7 +181,7 @@ h4 {
 	color: #4d6984;
 }
 .hero {
-	background-image: url("img/hero.jpg");
+	background-image: url("/home/nineleaps/Black_Poison/img//hero.jpg");
 	background-size: 100%;
 	height: 413px;
 	text-align: center;
@@ -307,7 +307,7 @@ h4 {
 	background-repeat: no-repeat;
 }
 .first-small:hover {
-	background-image: url('img/notaOverlay.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img//notaOverlay.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
@@ -566,19 +566,19 @@ width:100%;
 		background-repeat: no-repeat;
 	}
 	.first-big-image {
-		background: url("img/grandMotel.jpg");
+		background: url("/home/nineleaps/Black_Poison/img//grandMotel.jpg");
 		background-size: 100% 100%;
 	}
 	.first-big:hover .first-big-image {
-		background: url("img/grandMotelOverlay.jpg");
+		background: url("/home/nineleaps/Black_Poison/img//grandMotelOverlay.jpg");
 		background-size: 100% 100%;
 	}
 	.second-big-image {
-		background: url("img/ourMission.jpg");
+		background: url("/home/nineleaps/Black_Poison/img//ourMission.jpg");
 		background-size: 100% 100%;
 	}
 	.second-big:hover .second-big-image {
-		background: url("img/ourMissionOverlay.jpg");
+		background: url("/home/nineleaps/Black_Poison/img//ourMissionOverlay.jpg");
 		background-size: 100% 100%;
 	}
 	.carousel-indicators{
@@ -651,19 +651,19 @@ width:100%;
 			margin-right: auto;
 		}
 		.first-big-image {
-			background: url("img/grandMotel.jpg");
+			background: url("/home/nineleaps/Black_Poison/img//grandMotel.jpg");
 			background-size: 100% 100%;
 		}
 		.first-big:hover .first-big-image {
-			background: url("img/grandMotelOverlay.jpg");
+			background: url("/home/nineleaps/Black_Poison/img//grandMotelOverlay.jpg");
 			background-size: 100% 100%;
 		}
 		.second-big-image {
-			background: url("img/ourMission.jpg");
+			background: url("/home/nineleaps/Black_Poison/img//ourMission.jpg");
 			background-size: 100% 100%;
 		}
 		.second-big:hover .second-big-image {
-			background: url("img/ourMissionOverlay.jpg");
+			background: url("/home/nineleaps/Black_Poison/img//ourMissionOverlay.jpg");
 			background-size: 100% 100%;
 		}
 		.carousel-indicators{
