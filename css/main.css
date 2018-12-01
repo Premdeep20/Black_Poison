@@ -5,6 +5,20 @@ body {
     color: #333;
     background-color: #fff;
   }
+  .fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.jumbotron{
+    margin-top: 10px;
+    height: 400px;
+}
+.jumbotron p{
+    font-size: 19px;
+}
 .team {
     background: #f5f5f5;
     padding: 80px 0;
@@ -47,11 +61,12 @@ p {
 }
 .team-grid{
     margin-top:50px;
-    
+
 }
 
 .fully-img {
-    background: url('/home/nineleaps/Black_Poison/img/laptop.png') no-repeat 0px 0px;
+    background: url('/home/nineleaps/Black_Poison/img/team1.jpg') no-repeat 0px 0px;
+    background-size: cover;
     width: 121px;
     height: 120px;
     display: block;
@@ -70,21 +85,24 @@ p {
     line-height: 1.8em;
 }
 .easy-img {
-    background: url('/home/nineleaps/Black_Poison/img/laptop.png') no-repeat 0px 0px;
+    background: url('/home/nineleaps/Black_Poison/img/team2.png') no-repeat 0px 0px;
+    background-size: cover;
     width: 121px;
     height: 120px;
     display: block;
     margin: 0 auto;
 }
 .seo-img {
-    background: url('/home/nineleaps/Black_Poison/img/laptop.png') no-repeat 0px 0px;
+    background: url('/home/nineleaps/Black_Poison/img/team3.jpg') no-repeat 0px 0px;
+    background-size: cover;
     width: 121px;
     height: 120px;
     display: block;
     margin: 0 auto;
 }
 .made-img {
-    background: url('/home/nineleaps/Black_Poison/img/laptop.png') no-repeat 0px 0px;
+    background: url('/home/nineleaps/Black_Poison/img/team5.jpg') no-repeat 0px 0px;
+    background-size: cover;
     width: 121px;
     height: 120px;
     display: block;
