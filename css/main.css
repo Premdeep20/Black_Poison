@@ -111,3 +111,17 @@ p {
 .text-center {
     text-align: center;
 }
+.section1head{
+    font-size:1em;
+     }
+     .section1para{
+      font-size:.9em;
+     }
+    
+    .big-icon {
+    font-size: 4em;
+    border-radius:4em;
+    paddind:2em;
+    }
+    /* i.fa .Icon { display: inline-block; border-radius: 60px; box-shadow: 0px 0px 2px #888; padding: 0.5em 0.6em; } */
+    
