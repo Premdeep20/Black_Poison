@@ -236,19 +236,19 @@ h4 {
 	background: blue;
 }
 .first-big-image {
-	background: url("img/grandMotel.jpg");
+	background: url("/home/nineleaps/Black_Poison/img/grandMotel.jpg");
 	background-size: 382px 263px;
 }
 .first-big:hover .first-big-image {
-	background: url("img/grandMotelOverlay.jpg");
+	background: url("/home/nineleaps/Black_Poison/img/grandMotelOverlay.jpg");
 	background-size: 382px 263px;
 }
 .second-big-image {
-	background: url("img/ourMission.jpg");
+	background: url("/home/nineleaps/Black_Poison/img/ourMission.jpg");
 	background-size: 382px 263px;
 }
 .second-big:hover .second-big-image {
-	background: url("img/ourMissionOverlay.jpg");
+	background: url("/home/nineleaps/Black_Poison/img/ourMissionOverlay.jpg");
 	background-size: 382px 263px;
 }
 .latest-work-big:hover .latest-work-large-title {
@@ -287,22 +287,22 @@ h4 {
 	border-radius: 3px;
 }
 .first-small {
-	background-image: url('img/nota.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img/nota.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
 .second-small {
-	background-image: url('img/vinyl.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img/vinyl.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
 .third-small {
-	background-image: url('img/yancy.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img/yancy.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
 .fourth-small {
-	background-image: url('img/signwall.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img/signwall.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
@@ -312,17 +312,17 @@ h4 {
 	background-repeat: no-repeat;
 }
 .second-small:hover {
-	background-image: url('img/vinylOverlay.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img/vinylOverlay.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
 .third-small:hover {
-	background-image: url('img/yancyOverlay.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img/yancyOverlay.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
 .fourth-small:hover {
-	background-image: url('img/signwallOverlay.jpg');
+	background-image: url('/home/nineleaps/Black_Poison/img/signwallOverlay.jpg');
 	background-size:100%;
 	background-repeat: no-repeat;
 }
